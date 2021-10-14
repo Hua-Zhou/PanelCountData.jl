@@ -1,0 +1,13 @@
+name = "PanelCountData"
+uuid = "e9e49da5-e88d-454a-939a-e6e528216af1"
+authors = ["Hua Zhou <huazhou@ucla.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
